@@ -1,0 +1,3 @@
+Adding some random text. 
+
+Testing Git branch, push, pull and merge commands.
